@@ -25,9 +25,9 @@
   <a href="https://www.linkedin.com/in/nikhita-angadi-2b627a141/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZcRqRmFClgxHzDDJqBMlcXWNngwclhnWqLpDMnKtwKmZdbVzRhWghBXpNBFwWzLTTlMXB">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZcRqRmFClgxHzDDJqBMlcXWNngwclhnWqLpDMnKtwKmZdbVzRhWghBXpNBFwWzLTTlMXB" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
     
-  <a href="https://github.com/nikhitaangadi">
+  <a href="https://github.com/nikhitaangadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p
